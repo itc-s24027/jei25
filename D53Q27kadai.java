@@ -21,6 +21,6 @@ enum Udon {
 
 public class D53Q27kadai {
     public static void main(String[] args) {
-        System.out.println(Udon.NIKU);
+        System.out.println(Udon.NIKU); // toString()を自動的に呼び出している
     }
 }
